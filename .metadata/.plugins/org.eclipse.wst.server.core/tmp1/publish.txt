@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Apr 25 15:32:49 CEST 2024
+org.eclipse.jst.jee.server\:gesusers2=C\:\\jakarta\\apache-tomcat-10.1.19\\wtpwebapps\\gesusers2
+org.eclipse.jst.jee.server\:gesusers1-taglib=C\:\\jakarta\\apache-tomcat-10.1.19\\wtpwebapps\\gesusers1-taglib

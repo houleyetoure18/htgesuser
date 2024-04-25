@@ -1,0 +1,15 @@
+INDEX VERSION 1.134
+C:\jakarta\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\670369816.index
+\gesusers2\src\main\java
+C:\jakarta\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2796676080.index
+\gesusers2\src\main\java
+C:\jakarta\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\438460698.index
+\gesusers1-taglib\src\main\java
+C:\jakarta\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4180991354.index
+\gesusers-ht\src\main\java
+C:\jakarta\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3241578444.index
+\Gestion des utilisateurs\src\main\java
+C:\jakarta\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2077329202.index
+\Gestion des utilisateurs\src\main\java
+C:\jakarta\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\918861494.index
+\gesusers-ht\src\main\java
